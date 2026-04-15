@@ -1,0 +1,13 @@
+{
+  "itemGroup.civicraft": "Example Mod Tab",
+  "block.civicraft.example_block": "Example Block",
+  "item.civicraft.example_item": "Example Item",
+
+  "civicraft.configuration.title": "CiviCraft Configs",
+  "civicraft.configuration.section.civicraft.common.toml": "CiviCraft Configs",
+  "civicraft.configuration.section.civicraft.common.toml.title": "CiviCraft Configs",
+  "civicraft.configuration.items": "Item List",
+  "civicraft.configuration.logDirtBlock": "Log Dirt Block",
+  "civicraft.configuration.magicNumberIntroduction": "Magic Number Text",
+  "civicraft.configuration.magicNumber": "Magic Number"
+}
