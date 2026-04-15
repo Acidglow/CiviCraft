@@ -1,13 +1,15 @@
 {
-  "itemGroup.civicraft": "Example Mod Tab",
-  "block.civicraft.example_block": "Example Block",
-  "item.civicraft.example_item": "Example Item",
-
+  "itemGroup.civicraft": "CiviCraft",
+  "item.civicraft.copper_coin": "Copper Coin",
+  "item.civicraft.silver_coin": "Silver Coin",
+  "item.civicraft.gold_coin": "Gold Coin",
+  "tooltip.civicraft.coin_value": "Value: %s copper",
+  "tooltip.civicraft.wallet_button": "Open Wallet",
+  "screen.civicraft.wallet": "Wallet",
   "civicraft.configuration.title": "CiviCraft Configs",
   "civicraft.configuration.section.civicraft.common.toml": "CiviCraft Configs",
   "civicraft.configuration.section.civicraft.common.toml.title": "CiviCraft Configs",
-  "civicraft.configuration.items": "Item List",
-  "civicraft.configuration.logDirtBlock": "Log Dirt Block",
-  "civicraft.configuration.magicNumberIntroduction": "Magic Number Text",
-  "civicraft.configuration.magicNumber": "Magic Number"
+  "civicraft.configuration.copperCoinValue": "Copper Coin Value",
+  "civicraft.configuration.silverCoinValue": "Silver Coin Value",
+  "civicraft.configuration.goldCoinValue": "Gold Coin Value"
 }
